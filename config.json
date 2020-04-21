@@ -1,0 +1,6 @@
+{
+    "pheromone_decay_ratio": 0.5,
+    "pheromone_add_ratio": 2.0,
+    "ant_num": 30,
+    "iterate_num": 60
+}
